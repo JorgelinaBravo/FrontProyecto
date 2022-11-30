@@ -1,9 +1,14 @@
 body {background-color: pink;}
 .letraazul{color: red; font-size: 40px; text-align: center;}
 .linea {text-decoration: underline;}
-.imagen {height: 400px; width: 600px; ;}
+.imagen {height: 200px; width: 300px; ;}
 .centro {text-align: center; font-size: 30px}
 .texto {text-align: center;}
 .negrita {font-weight: bold;}
 .icono {width: 40px; position: fixed; bottom: 10px; right: 15px}
 .face {width: 60px;bottom: 10px; left: 15px}
+header {background-image: url(https://img.freepik.com/vector-gratis/fondo-minimalista-dibujado-mano_23-2148999828.jpg?w=360); display: flex;justify-content: center; justify-content: space-around;flex-wrap: wrap;flex-direction: row;}
+footer {display: flex;justify-content: center; justify-content: space-around;flex-wrap: wrap;}
+.logo {width: 100px}
+main{background-image: url(https://img.freepik.com/vector-gratis/vector-papel-tapiz-patron-flor-rosa-estilo-dibujado-mano_53876-136788.jpg?auto=format&h=200);display: flex;justify-content: center;justify-content: space-around;flex-wrap: wrap;}
+section {background-image: url(https://img.freepik.com/vector-gratis/vector-papel-tapiz-patron-flor-rosa-estilo-dibujado-mano_53876-136788.jpg?auto=format&h=200);display: flex; justify-content: center;}
