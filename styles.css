@@ -5,12 +5,8 @@ body {margin: 0; padding: 0;
   background-image: url(https://fondosmil.com/fondo/7563.jpg);
   background-size: cover;
 background-position: center;
-font-family: sans-serif;
 background-attachment: fixed;
 background-repeat: no-repeat;
-letter-spacing: 0.03em;
-line-height: 1.6;
-
 }
 .titulo {color: white; font-size: 50px; text-align: center;
 margin-top: 100px; font-weight: 50;
@@ -42,3 +38,7 @@ footer {display: flex;justify-content: center; justify-content: space-around;fle
 @import url('https://fonts.googleapis.com/css2?family=Rubik+80s+Fade&display=swap');
 
 .card-text {font-family: 'Nunito Sans', sans-serif;}
+
+.formulario {display: flex; justify-content: center;font-family: 'Nunito Sans'}
+
+.datos {color: white }
